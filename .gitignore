@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+# o repositório de código do produto nunca entra aqui — é read-only e externo
+<PRODUTO>/
+# memória de sessão é local
+memoria/_autosave/
+memoria/telemetria/
